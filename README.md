@@ -1,6 +1,6 @@
-# Login Screen
+# Styled Clock
 
-Check out the <a href="https://nickanderson038.github.io/style-clock/" target="_blank">login</a> screen!
+Styled up <a href="https://nickanderson038.github.io/style-clock/" target="_blank">clock</a> react app.
 
 <br/>
 
